@@ -3,5 +3,6 @@
         "ostream": "cpp",
         "L09P02.C": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
