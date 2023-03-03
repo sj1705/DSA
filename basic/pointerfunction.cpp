@@ -12,5 +12,5 @@ int main()
     int a =5;
     int *ptr=&a;
     print(ptr);
-    return 0;
+    return 1;
 }
