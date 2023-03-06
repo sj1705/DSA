@@ -4,7 +4,7 @@ public:
         if(x<0)
             return false;
         int y=x;
-        long long s=0;
+        long s=0;
 
         while(y!=0)
         {
