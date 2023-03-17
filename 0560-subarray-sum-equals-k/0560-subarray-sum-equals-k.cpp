@@ -4,7 +4,7 @@ public:
   unordered_map<int,int> map;
         
         int sum = 0, result = 0;
-        map[sum] = 1;
+        map[0] = 1;
         
         for (int n : nums) {
             sum += n;
