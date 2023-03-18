@@ -1,24 +1,25 @@
 class Solution {
 public:
-    void solve(vector<int> &tmp,vector<vector<int>> &ans,int s,vector<int> &nums){
-        ans.push_back(tmp);
-        if(s==nums.size()){
-            return;
+    vector<vector<int>> subsets(vector<int>& nums) {
+        int size = nums.size();
+        int bitMask = (1 << size);    //calculating the number of subsets that we will have from the array
+        
+        vector<vector<int>> res;
+        
+        for(int subsetM = 0; subsetM < bitMask; subsetM++) {
+            vector<int> arr;
+            
+            for(int i = 0; i < size; i++) {
+                if((subsetM & (1 << i)) != 0) { //this if statement checks if the ith bit is set or not.
+				
+			
+                    arr.push_back(nums[i]);
+                }
+            }
+            
+            res.push_back(arr);
         }
         
-        for(int i = s; i < nums.size(); i++){
-            tmp.push_back(nums[i]);
-            solve(tmp,ans,i+1,nums);
-            tmp.pop_back();
-            while(i+1<nums.size() && nums[s] == nums[i+1]){
-                i++;
-            }
-        }
-    }
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        vector<int> tmp;
-        solve(tmp,ans,0,nums);
-        return ans;
+        return res;
     }
 };
