@@ -16,12 +16,12 @@ public:
         }
     }
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<vector<int>> ans;
+        vector<vector<int>> answer;
         vector<int> ds;
         if(n<k){
-            return ans;
+            return answer;
         }
-        CombinationSum(1, ds, ans, n, k, n);
-        return ans;
+        CombinationSum(1, ds, answer, n, k, n);
+        return answer;
     }
 };
