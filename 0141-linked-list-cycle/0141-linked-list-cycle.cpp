@@ -3,13 +3,13 @@ public:
     bool hasCycle(ListNode *head) {
         if(head == NULL)
            return false;
-        ListNode *fast = head;
+        ListNode *f = head;
         ListNode *slow = head;
-        while(fast->next != NULL && fast->next->next != NULL)
+        while(f->next != NULL && f->next->next != NULL)
         {
             slow = slow->next;
-            fast = fast->next->next;
-            if(fast == slow)
+            f = f->next->next;
+            if(f == slow)
                 return true;
         }
         return false;    
