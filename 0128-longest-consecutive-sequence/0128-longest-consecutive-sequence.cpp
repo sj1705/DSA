@@ -4,14 +4,11 @@ public:
         vector<int> ans;
         int counter = 1;
         int maxi = INT_MIN;
-
         if(nums.size() == 0)
             return 0;
         else if(nums.size() == 1)
             return 1;
-        
         sort(nums.begin(),nums.end());
-
         ans.push_back(nums[0]);
 
         for(int i = 1;i < nums.size();i++){
@@ -26,7 +23,6 @@ public:
             }
             maxi = max(maxi, counter);
         }
-
         return maxi;
     }
 };
