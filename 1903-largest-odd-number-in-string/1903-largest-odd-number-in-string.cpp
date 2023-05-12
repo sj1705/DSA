@@ -1,21 +1,13 @@
 class Solution {
 public:
-    string largestOddNumber(string num) {
-        int n=num.size();
-        int r;
-        bool flag=false;
-        for(int i=n-1;i>=0;i--)
-        {
-            if(num[i]%2!=0)
-            {
-                r=i;
-                flag=true;
+string largestOddNumber(string num) { 
+        int i;
+        for( i = num.size()-1 ; i >= 0 ; --i){
+            if((num[i]-48) % 2 != 0)
                 break;
-            }
         }
-        if(flag)
-            return num.substr(0,r+1);
-        else
-            return "";
+        num.resize(i+1);
+        
+        return num; 
     }
 };
