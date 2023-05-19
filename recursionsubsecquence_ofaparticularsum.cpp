@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int f(int index, vector<int> &ds, int s, int arr[], int n, int sum)
+void f(int index, vector<int> &ds, int s, int arr[], int n, int sum)
 {
     if (index == n)
     {
@@ -12,12 +12,12 @@ int f(int index, vector<int> &ds, int s, int arr[], int n, int sum)
                 cout << it << " ";
             }
             cout << endl;
-            return true;
+            return ;
         }
-        else
-        {
-            return false;
-        }
+        // else
+        // {
+            return ;
+        // }
     }
 
     ds.push_back(arr[index]);
