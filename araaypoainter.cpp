@@ -12,5 +12,6 @@ int main()
     cout << *arr << endl;
     cout << *(arr+1) << endl;
     cout << a[arr] << endl;
+    cout << "hehe git check"<< endl;
     return 0;
 }
