@@ -11,4 +11,7 @@ int main()
     cout << "2st :  " << ptr << endl;
     cout << "3st :  " << *ptr << endl;
     cout << "4st :  " << arr << endl;
+    cout << "5st :  " << arr[3] << endl;
+    cout << "6st :  " << 2[arr] << endl;
+    
 }
