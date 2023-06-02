@@ -19,6 +19,14 @@ void print(Node *head)
     }
 }
 
+void makell(Node *head, int size)
+{
+    for(i=1;i<size;i++)
+    {
+        
+    }
+}
+
 int main()
 {
     Node *head = new Node();
@@ -37,8 +45,8 @@ int main()
     print(head);
     int n;
     cout << "Enter the size of ll";
-
     cin >> n;
+    makell(head,n);
     return 0;
 }
 
