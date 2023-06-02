@@ -23,7 +23,8 @@ void makell(Node *head, int size)
 {
     for(i=1;i<size;i++)
     {
-        
+        Node *link=new Node;
+        int
     }
 }
 
