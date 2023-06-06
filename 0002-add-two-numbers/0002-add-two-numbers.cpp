@@ -1,34 +1,29 @@
+
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* ptr1 = l1;
-        ListNode* ptr2 = l2;
-        ListNode* head = l1;
-        int sum = 0,carry=0;
-        int num1=0,num2=0;
-        while(ptr1 ||  ptr2){
-            if(ptr1){
-                num1=ptr1->val;
-                ptr1=ptr1->next;
+    ListNode* addTwoNumbers(ListNode* L1, ListNode* L2) {
+        ListNode *dummy=new ListNode();
+        ListNode *temp=dummy;
+        int carry=0;
+        while(L1!=NULL || L2!=NULL || carry)
+        {
+            int sum = 0;
+            if(L1!=NULL)
+            {
+                sum=sum+L1->val;
+                L1=L1->next;
             }
-            if(ptr2){
-                num2=ptr2->val;
-                ptr2=ptr2->next;
+            if(L2!=NULL)
+            {
+                sum=sum+L2->val;
+                L2=L2->next;
             }
-            sum=num1+num2+carry;
-            carry = sum/10;
-            sum = sum%10;
-            cout<<sum;
-            ListNode* n = new ListNode(sum);
-            l1->next=n;
-            l1=l1->next;
-            num1=0,num2=0,sum=0;
+            sum=sum+carry;
+            carry=sum/10;
+            ListNode *node=new ListNode(sum%10);
+            temp->next=node;
+            temp=temp->next;
         }
-        if(carry){
-            ListNode* n = new ListNode(carry);
-            l1->next=n;
-            l1=l1->next;
-        }
-        return head->next;
+        return dummy->next;
     }
 };
