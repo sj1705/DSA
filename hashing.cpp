@@ -18,13 +18,24 @@ int main()
     {
         hash[arr[i]]++;
     }
+    // hash by a  map
+    map<int,int> mpp;
+    for(int i = 0;i<n;i++)
+    {
+        mpp[arr[i]]++;
+    }
+
+    //query
     int q;
     cin >> q;
     while(q--)
     {
         int number;
         cin >> number;
+
+    //fetching
         cout << hash[number] << endl; 
+        cout << mpp[number] << endl; 
     }
     return 0;
 }
