@@ -13,5 +13,6 @@ int main()
     s.push(4);
 
 cout << s.top() << endl;    
-cout << s.empty();
+cout << s.empty() << endl;
+cout << "The size of the stack is ::  " << s.size() << endl;
 }
