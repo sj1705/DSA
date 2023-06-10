@@ -1,25 +1,20 @@
 class Solution {
 public:
     vector<string> buildArray(vector<int>& target, int n) {
-        vector<string> v;
-        int j=0;
-        for(int i=0;i<n;i++)
-        {
-            if(target[j]==i+1)
-            {
-                j++;
-                v.push_back("Push");
-                if(j==target.size())
-                {
-                    return v;
-                }
+        vector<string> operations;
+        int num = 1;
+        
+        for (int i = 0; i < target.size(); i++) {
+            while (num < target[i]) {
+                operations.push_back("Push");
+                operations.push_back("Pop");
+                num++;
             }
-            else
-            {
-                v.push_back("Push");
-                v.push_back("Pop");
-            }
+            
+            operations.push_back("Push");
+            num++;
         }
-        return v;
+        
+        return operations;
     }
 };
