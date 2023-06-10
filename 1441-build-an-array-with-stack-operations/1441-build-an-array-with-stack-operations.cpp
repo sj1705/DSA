@@ -1,15 +1,25 @@
 class Solution {
 public:
     vector<string> buildArray(vector<int>& target, int n) {
-        int value=1, maxi=target[target.size()-1], i=0;
-        vector<string> res;
-        while(value<=maxi){
-            res.push_back("Push");
-            if(target[i]==value){
-                i++;        
-            }else res.push_back("Pop");
-            value++;
+        vector<string> v;
+        int j=0;
+        for(int i=0;i<n;i++)
+        {
+            if(target[j]==i+1)
+            {
+                j++;
+                v.push_back("Push");
+                if(j==target.size())
+                {
+                    return v;
+                }
+            }
+            else
+            {
+                v.push_back("Push");
+                v.push_back("Pop");
+            }
         }
-        return res;
+        return v;
     }
 };
