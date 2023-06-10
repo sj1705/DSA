@@ -12,6 +12,6 @@ int main()
     s.push(4);
     s.push(4);
 
-cout << s.top();    
-
+cout << s.top() << endl;    
+cout << s.empty();
 }
