@@ -12,7 +12,7 @@ int main()
     }
     for(int i=0;i<str.length();i++)
     {
-        cout << s.top() << endl;
+        cout << s.top();
         s.pop();
     }
     return 0;
