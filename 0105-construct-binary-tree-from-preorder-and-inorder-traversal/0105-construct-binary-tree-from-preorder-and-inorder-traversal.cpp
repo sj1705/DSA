@@ -9,10 +9,8 @@ public:
         return root;
     }
 
-    TreeNode* buildTrees(vector<int> preorder,int preStart,int preEnd,vector<int> inorder,int inStart,int inEnd,map<int,int> &inList){
-
-
-
+    TreeNode* buildTrees(vector<int> preorder,int preStart,int preEnd,vector<int> inorder,int inStart,int inEnd,map<int,int> &inList)
+    {
         if(preStart>preEnd || inStart>inEnd)return NULL;
 
         TreeNode* root=new TreeNode(preorder[preStart]);
