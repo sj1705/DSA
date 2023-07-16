@@ -1,19 +1,13 @@
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
-        TreeNode * ans=NULL;
-        if(root==NULL) return ans;
-        while(root)
-        {
-            if(root->val==val){
-                ans=root;
-            break;}
-            else if(root->val>val)
-                root=root->left;
-            else
-                root=root->right;
-        }
-        return ans;
+        if(root==NULL)
+            return NULL;
+        if(root->val==val)
+            return root;
+        if(val<root->val)
+            return searchBST(root->left,val);
+        else
+             return searchBST(root->right,val);
     }
 };
-
