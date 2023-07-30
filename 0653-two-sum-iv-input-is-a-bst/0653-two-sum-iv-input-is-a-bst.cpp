@@ -1,61 +1,10 @@
-class BSTiterator{
-    //stack 
-    stack<TreeNode*> myStack ;
-    //reverse flag for switching between next and before 
-    bool reverse = true ;
-    //true means before()
-    //flase means next()
-    
-    public:
-    //constructor 
-    BSTiterator(TreeNode* root , bool isReverse){
-        reverse = isReverse ;
-        pushAll(root) ; 
-    }
-    bool hasNext(){
-        return !myStack.empty() ; 
-    }
-    int next(){
-        TreeNode* tmp = myStack.top();
-        myStack.pop();
-        if(reverse==false) pushAll(tmp->right) ;
-        else pushAll(tmp->left);
-        return tmp->val ; 
-    }
-    private:
-    void pushAll(TreeNode* root){
-        for(;root!=NULL;){
-            myStack.push(root);
-            if(reverse==true){
-                root = root->right ; 
-            }
-            else {
-                root = root->left ; 
-            }
-        }
-    }
-    
-};
 class Solution {
 public:
+    set<int>s; // created a set
     bool findTarget(TreeNode* root, int k) {
-        if(!root)return false ;
-        //creating the object 
-        //next
-        BSTiterator l(root, false) ;
-        //beofore 
-        BSTiterator r(root , true) ;
-        
-        int leftpointer = l.next() ;
-        int rightpointer = r.next() ; 
-        
-        //simple twosum problem method 
-        while(leftpointer<rightpointer){
-            if(leftpointer+rightpointer==k) return true ;
-            else if(leftpointer+rightpointer<k) leftpointer=l.next() ;
-            else rightpointer = r.next() ;
-        }
-        return false ; 
-        
+        if(root==nullptr) return false;
+        if(s.find(k-root->val)!=s.end()) return true; // searching for the element that sums upto k in the set.
+        s.insert(root->val); // if element is not present, inserting root's value in the set.
+        return findTarget(root->left,k) || findTarget(root->right,k); // recursively rearching in the left and right subtree. Returning true if solution is find on either of side.
     }
 };
