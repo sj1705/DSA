@@ -3,7 +3,7 @@ public:
     TreeNode* deleteNode(TreeNode* root, int key) {
       if(!root)return NULL;
       if(root->val==key)return helper(root);
-      TreeNode*temp=root;
+      TreeNode*dummy=root;
       while(root){
       if(root->val>key){
           if(root->left!=NULL && root->left->val==key){
@@ -22,11 +22,11 @@ public:
           else root=root->right;
       }
     }
-    return temp;
+    return dummy;
     }
    TreeNode* helper(TreeNode*root){
        if(!root->left)return root->right;
-       else if(!root->right)return root->left;
+       if(!root->right)return root->left;
        TreeNode*rightchild=root->right;
        TreeNode*lastright=findlastright(root->left);
        lastright->right=rightchild;
