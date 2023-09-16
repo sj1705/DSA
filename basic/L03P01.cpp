@@ -8,5 +8,5 @@ int main()
     cout << "Enter value of m" << endl;
     cin >> n >> m;
     cout << "The value of n is:" << n << endl;
-    cout << "The value of m is:" << m << endl;
+    cout << "The value of mmm is:" << m << endl;
 }
