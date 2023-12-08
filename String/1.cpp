@@ -11,5 +11,9 @@ int main()
     char Z[6]={65,66,67,68,69,'\0'};
 
     cout << X << endl << Z;
+
+    string x;
+    getline (cin ,x);
+    cout << x;
     
 }
