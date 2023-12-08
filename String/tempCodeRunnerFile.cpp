@@ -7,9 +7,9 @@ int main()
 
     // char array
     cout << endl << endl;
-    char X[6]={'A','B','C','D','E','\0'};
-    char Z[6]={65,66,67,68,69,'\0'};
+    char X[5]={'A','B','C','D','E'};
+    char Y[5]={65,66,67,68,69};
 
-    cout << X << endl << Z;
+    cout << X << Y;
     
 }
