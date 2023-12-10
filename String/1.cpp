@@ -2,9 +2,6 @@
 using namespace std;
 int main()
 {
-
-
-
     // char array
     cout << endl << endl;
     char X[6]={'A','B','C','D','E','\0'};
