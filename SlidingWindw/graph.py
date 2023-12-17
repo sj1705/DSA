@@ -12,8 +12,9 @@ def getMinOperations(k, g_nodes, g_from, g_to):
     for u, v in zip(g_from, g_to):
         g[u].append(v)
         g[v].append(u)
-    operations = dfs(1, 0, g) - 1
+    operations = dfs(2, 0, g) - 1  # Start DFS from node 2 as it's the center of the star
     return (operations + k - 1) // k
+
 
 
 k = 3
