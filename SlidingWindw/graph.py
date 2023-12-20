@@ -16,7 +16,7 @@ def getMinOperations(k, g_nodes, g_from, g_to):
     return (operations + k - 1) // k
 
 
-
+# Example usage:
 k = 3
 g_nodes = 6
 g_from = [2, 2, 2, 3, 4]
