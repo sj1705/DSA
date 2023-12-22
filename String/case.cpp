@@ -11,5 +11,4 @@ int main()
     }
     cout << "length of name is:" << i<<endl;
     cout << name;
-
 }
