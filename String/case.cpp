@@ -9,5 +9,5 @@ int main()
         name[i]=name[i]+32;
     }
     cout << "length of name is:" << i<<endl;
-    cout << name;
+    cout << "string to upper to lower:   "<<name;
 }
