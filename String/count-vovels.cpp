@@ -14,6 +14,6 @@ int main()
 
     }
     cout << "length of name is:" << i<<endl;
-    cout << "count of vowels:"<<vcount;
+    cout << "count of vowels:"<<vcount<<endl;
     cout << "count of words:"<<words;
 }
