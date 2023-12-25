@@ -9,9 +9,10 @@ int main()
     revname.resize(l);
 
     for(i=0;i<l/2;i++){
-        revname[l-i-1]=name[i];
+        
+        swap(name[l-i-1],name[i]);
         
     }
-    cout << revname;
+    cout << name;
 
 }
