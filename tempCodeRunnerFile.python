@@ -21,7 +21,6 @@ def getNumStrings(k, queries):
         result.append((prefix_sum[right] - prefix_sum[left-1] + MOD) % MOD)
 
     return result
-
 # Example usage:
 k = 3
 queries = [[1, 3]]
