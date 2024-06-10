@@ -7,10 +7,6 @@ public:
         for(int i=1;i<n;i++)
         {
             int pick=nums[i];
-
-
-
-            
             if (i >1) pick+=prev2;
             int notpick=prev;
             int curi=max(pick,notpick);
