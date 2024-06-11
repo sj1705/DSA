@@ -1,17 +1,20 @@
+
 class Solution {
 public:
-    int MaxpathSum(TreeNode* root, int & maxi )
+    int f(int &maxi, TreeNode * root)
     {
-        if(root==NULL)return 0;
-        int leftsum=max(0, MaxpathSum(root->left, maxi));
-        int rightsum=max(0,MaxpathSum(root->right, maxi));
-        maxi=max(maxi, leftsum+rightsum+ root->val); 
-        return root->val + max(leftsum, rightsum);
+        if(root== NULL) return 0;
+        
+        int lh=max(0,f(maxi,root->left));
+        int rh=max(0,f(maxi,root->right));
+        
+        maxi=max(maxi,rh+lh+root->val);
+        
+        return root->val+max(lh,rh);
     }
-    int maxPathSum(TreeNode* root) 
-    {
+    int maxPathSum(TreeNode* root) {
         int maxi=-1e9;
-        MaxpathSum( root, maxi);
+        f(maxi,root);
         return maxi;
     }
 };

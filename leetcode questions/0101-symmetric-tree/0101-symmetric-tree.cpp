@@ -11,16 +11,18 @@
  */
 class Solution {
 public:
-    bool recurr(TreeNode * left,TreeNode * right)
+    bool f( TreeNode * left,TreeNode * right)
     {
-        if(left==NULL || right ==NULL)
+        if(left == NULL || right ==NULL)
             return left==right;
         if(left->val!=right->val)
             return false;
-        return recurr(left->left,right->right)
-        &&  recurr(left->right,right->left);
+        return f(left->left,right->right) &&
+                f(left->right,right->left);
     }
     bool isSymmetric(TreeNode* root) {
-        return root==NULL || recurr(root->left,root->right);
+        if(root==NULL) return true;
+        
+        return f(root->left,root->right);
     }
 };
