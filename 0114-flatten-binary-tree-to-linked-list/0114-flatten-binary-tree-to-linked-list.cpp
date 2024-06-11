@@ -24,7 +24,6 @@ public:
             if(curr->left!=NULL) st.push(curr->left);
             if(!st.empty()) curr->right=st.top();
             curr->left=NULL;
-            
         }
     }
 };
