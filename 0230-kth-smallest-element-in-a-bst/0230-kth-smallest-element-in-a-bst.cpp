@@ -1,15 +1,22 @@
 class Solution {
 public:
-    void inorder(TreeNode *root, vector<int> &inorder1) {
-        if (root == NULL)
+    void inorder(TreeNode* root, int &k, TreeNode* &result) {
+        if (root == NULL || k == 0)
             return;
-        inorder(root->left, inorder1);
-        inorder1.push_back(root->val); // Push the value, not the TreeNode
-        inorder(root->right, inorder1); // Corrected to right
+        
+        inorder(root->left, k, result);
+        
+        if (--k == 0) {
+            result = root;
+            return;
+        }
+        
+        inorder(root->right, k, result);
     }
+    
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> inorder1;
-        inorder(root, inorder1); // Corrected variable name
-        return inorder1[k - 1]; // Corrected indexing
+        TreeNode* result = NULL;
+        inorder(root, k, result);
+        return result->val;
     }
 };
