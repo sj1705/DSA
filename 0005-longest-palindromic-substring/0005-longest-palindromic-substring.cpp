@@ -6,8 +6,9 @@ public:
         int n=s.length();
         int start=0;
         
-        for(int i=0;i<n-1;i++)
+        for(int i=0;i<n;i++)
         {
+            // Check for odd-length palindrome
             int l=i,r=i;
             while(l>=0 && r<n && s[l]==s[r])
             {
@@ -19,10 +20,9 @@ public:
                 l--;
                 r++;
             }
-        }
-        for(int i=0;i<n-1;i++)
-        {
-            int l=i,r=i+1;
+
+            // Check for even-length palindrome
+            l=i,r=i+1;
             while(l>=0 && r<n && s[l]==s[r])
             {
                 if((r-l+1)>maxlen)
