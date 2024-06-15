@@ -7,8 +7,7 @@ public:
             if(i>maxi)
                 return false;
             maxi=max(maxi,i+nums[i]);
-            if(maxi==nums.size())
-                return true;
+
         }
         return true;
     }
