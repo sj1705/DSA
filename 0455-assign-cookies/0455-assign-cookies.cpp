@@ -7,14 +7,9 @@ public:
     int j=0;
 
           while(j<s.size()  && i<g.size()){
-
-              if(g[i]<=s[j]){
+              if(g[i]<=s[j])
                   i++;
-                  j++;
-              }
-              else{
-                  j++;
-              }
+            j++;
           }
         return i;
     }
