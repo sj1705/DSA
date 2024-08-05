@@ -9,13 +9,6 @@ public:
     {
         if(index == 0)
         {
-            /*
-            if(target == nums[index])
-            {
-                return 1;
-            }
-            return 0;
-            */
             if(index==0){
         if(target==0&&nums[0]==0)
             return 2;
