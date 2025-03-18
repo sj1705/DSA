@@ -18,6 +18,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sj1705/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -52,4 +53,8 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
