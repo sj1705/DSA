@@ -19,6 +19,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/sj1705/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sj1705/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
@@ -51,6 +52,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sj1705/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
@@ -71,4 +73,8 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sj1705/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
