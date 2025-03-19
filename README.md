@@ -18,6 +18,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sj1705/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sj1705/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sj1705/DSA/tree/master/0053-maximum-subarray) |
@@ -50,6 +51,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sj1705/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
