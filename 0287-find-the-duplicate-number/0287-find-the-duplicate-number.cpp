@@ -9,7 +9,7 @@ class Solution {
       fast = nums[nums[fast]];
     }
 
-    slow = nums[0];
+    fast = nums[0];
 
     while (slow != fast) {
       slow = nums[slow];
