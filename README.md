@@ -20,6 +20,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0001-two-sum](https://github.com/sj1705/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/sj1705/DSA/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/sj1705/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sj1705/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sj1705/DSA/tree/master/0056-merge-intervals) |
@@ -112,4 +113,8 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/sj1705/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
