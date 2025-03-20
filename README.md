@@ -53,6 +53,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0001-two-sum](https://github.com/sj1705/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Matrix
 |  |
@@ -70,6 +71,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -98,6 +100,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sj1705/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
