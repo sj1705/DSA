@@ -30,6 +30,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1705/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0907-koko-eating-bananas) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sj1705/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sj1705/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -63,6 +64,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0048-rotate-image](https://github.com/sj1705/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +123,12 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0039-combination-sum](https://github.com/sj1705/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sj1705/DSA/tree/master/0046-permutations) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
