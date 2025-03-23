@@ -1,19 +1,30 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        map<ListNode *,bool>m;
-        ListNode* temp=head;
-
-        ListNode* ans=NULL;
-        while(temp!=NULL){
-            if(m.find(temp) == m.end()){
-                m.insert({temp,true});
-            }else{
-                ans=temp;
-                break;
-            }
-            temp=temp->next;
+        if(head == NULL || head ->next ==NULL)
+        {
+            return NULL;
         }
-        return ans;
+
+        ListNode *slow = head;
+        ListNode *fast = head;
+        ListNode *entry = head;
+
+        while(fast->next && fast ->next->next)
+        {
+            slow = slow->next;
+            fast = fast->next->next;
+
+            if(slow == fast)       //find the collision node
+            {
+                while(slow != entry)   //find the starting point of cycle
+                {
+                    slow = slow->next;
+                    entry = entry->next;
+                }
+                return entry;
+            }
+        }
+        return NULL;
     }
 };
