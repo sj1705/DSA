@@ -29,6 +29,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1705/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/sj1705/DSA/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0907-koko-eating-bananas) |
@@ -72,6 +73,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1705/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/sj1705/DSA/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
