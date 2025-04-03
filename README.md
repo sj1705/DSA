@@ -70,6 +70,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sj1705/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sj1705/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1705/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -96,6 +97,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sj1705/DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/sj1705/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
@@ -139,4 +141,8 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sj1705/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
