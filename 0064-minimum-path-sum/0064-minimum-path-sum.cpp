@@ -10,7 +10,6 @@ public:
                     temp[j]=grid[i][j];
                     continue;
                 }
-                else{
                     int up=grid[i][j];
                     if(i>0) up+=prev[j];
                     else up+=1e9;
@@ -20,7 +19,6 @@ public:
                     else left+=1e9;
 
                     temp[j]=min(left,up);
-                }
             }
             prev=temp;
         }
