@@ -4,10 +4,10 @@ public:
         int m=grid.size(), n=grid[0].size();
         vector<int> prev(n);
         for(int i=0; i<m; i++){
-            vector<int>temp(n);
+            vector<int>curr(n);
             for(int j=0; j<n; j++){
                 if(i==0 && j==0){
-                    temp[j]=grid[i][j];
+                    curr[j]=grid[i][j];
                     continue;
                 }
                     int up=grid[i][j];
@@ -15,12 +15,12 @@ public:
                     else up+=1e9;
 
                     int left=grid[i][j];
-                    if(j>0) left+=temp[j-1];
+                    if(j>0) left+=curr[j-1];
                     else left+=1e9;
 
-                    temp[j]=min(left,up);
+                    curr[j]=min(left,up);
             }
-            prev=temp;
+            prev=curr;
         }
         return prev[n-1];
     }
