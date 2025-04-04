@@ -8,12 +8,10 @@ public:
         {
             for(int j=0;j<n;j++)
             {
-                int left,up;
                 if(i==0&&j==0) continue;
+                int left=0,up=0;
                 if(i>0) left=dp[i-1][j];
-                else left =0;
                 if(j>0) up=dp[i][j-1];
-                else up=0;
                 dp[i][j]=left+up;
             }
         }
