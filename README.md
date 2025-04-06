@@ -37,6 +37,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0907-koko-eating-bananas) |
+| [0967-minimum-falling-path-sum](https://github.com/sj1705/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sj1705/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sj1705/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sj1705/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -73,6 +74,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0064-minimum-path-sum](https://github.com/sj1705/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/sj1705/DSA/tree/master/0967-minimum-falling-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +88,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1705/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sj1705/DSA/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
+| [0967-minimum-falling-path-sum](https://github.com/sj1705/DSA/tree/master/0967-minimum-falling-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
