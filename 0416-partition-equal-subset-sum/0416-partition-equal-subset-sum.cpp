@@ -1,30 +1,30 @@
-// class Solution {
-// public:
-//     bool canPartition(vector<int>& nums) {
-        
-//     }
-// };
 class Solution {
 public:
-bool subsetSumUtil(int ind, int target, vector<int>& arr, vector<vector<int>>& dp) {
-    if (target == 0) return true;
-    if (ind == 0) return arr[0] == target;
-    if (dp[ind][target] != -1) return dp[ind][target];
-    bool notTaken = subsetSumUtil(ind - 1, target, arr, dp);
-    bool taken = false;
-    if (arr[ind] <= target) taken = subsetSumUtil(ind - 1, target - arr[ind], arr, dp);
-    return dp[ind][target] = notTaken || taken;
-}
+    bool canPartition(vector<int>& nums) {
+        int sum = 0 ; 
+        for(int x : nums) {
+            sum+= x ; 
+        }
+        
+        if(sum % 2 != 0 )  return false ; 
+        sum = sum / 2 ; 
+        int n = nums.size() ; 
+        vector<vector<bool>> dp(n , vector<bool>(sum+1 , 0)) ; 
+        for(int i =0  ; i < n ; i++) {
+            dp[i][0] = true ; 
+        }
+        if(nums[0] <= sum) dp[0][nums[0]] = true  ; 
 
-bool canPartition( vector<int>& arr) {
-    int n=arr.size();
-    int totSum = 0;
-    for (int i = 0; i < n; i++) totSum += arr[i];
-    if (totSum % 2 == 1) return false;
-    else {
-        int k = totSum / 2;
-        vector<vector<int>> dp(n, vector<int>(k + 1, -1));
-        return subsetSumUtil(n - 1, k, arr, dp);
+        for(int i =1 ; i < n ; i++) {
+            for(int j =1 ; j <= sum ; j++) {
+                bool not_pick = dp[i-1][j] ; 
+                bool pick = false ; 
+                if(nums[i] <= j ) pick = dp[i-1][j - nums[i]] ; 
+                dp[i][j] = pick ||not_pick;
+            }
+        }
+
+        return dp[n-1][sum] ; 
+        
     }
-}
 };
