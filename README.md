@@ -74,6 +74,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1500-count-largest-group](https://github.com/sj1705/DSA/tree/master/1500-count-largest-group) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sj1705/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sj1705/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Matrix
@@ -130,6 +131,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0062-unique-paths](https://github.com/sj1705/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
+| [1500-count-largest-group](https://github.com/sj1705/DSA/tree/master/1500-count-largest-group) |
 | [2998-count-symmetric-integers](https://github.com/sj1705/DSA/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
 |  |
