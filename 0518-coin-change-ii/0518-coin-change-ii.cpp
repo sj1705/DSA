@@ -1,28 +1,26 @@
 class Solution {
 public:
-    int solve(vector<int> &coins, int amount, int i, vector<vector<int>> &dp){
-        if(i==0){
-            if(amount%coins[i]==0){
-                return 1;
-            }else{
-                return 0;
-            }
-        }
-
-        if(dp[i][amount] != -1){
-            return dp[i][amount];
-        }
-
-        int noPick = solve(coins, amount, i-1, dp);
-        int Pick = 0;
-        if(amount >= coins[i]){
-            Pick = solve(coins, amount-coins[i], i, dp);
-        }
-
-        return dp[i][amount] = Pick+noPick;
-    }
     int change(int amount, vector<int>& coins) {
-        vector<vector<int>> dp(coins.size(), vector<int> (amount+1, -1));
-        return solve(coins, amount, coins.size()-1, dp);
+        int n = coins.size();
+        vector<long long> prev(amount + 1, 0), curr(amount + 1, 0);
+
+        for (int t = 0; t <= amount; ++t) {
+            if (t % coins[0] == 0)
+                prev[t] = 1;
+        }
+
+        for (int i = 1; i < n; ++i) {
+            for (int t = 0; t <= amount; ++t) {
+                long long noPick = prev[t];
+                long long pick = 0;
+                if (coins[i] <= t)
+                    pick = curr[t - coins[i]];
+
+                curr[t] = pick + noPick;
+            }
+            prev = curr;
+        }
+
+        return static_cast<int>(prev[amount]); // safe cast, final answer will be in int range
     }
 };
