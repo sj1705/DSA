@@ -39,6 +39,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sj1705/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/sj1705/DSA/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/sj1705/DSA/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/sj1705/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -102,6 +103,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0322-coin-change](https://github.com/sj1705/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sj1705/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sj1705/DSA/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/sj1705/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
@@ -167,6 +169,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0039-combination-sum](https://github.com/sj1705/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sj1705/DSA/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/sj1705/DSA/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
