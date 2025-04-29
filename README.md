@@ -7,6 +7,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/sj1705/DSA/tree/master/0038-count-and-say) |
+| [1250-longest-common-subsequence](https://github.com/sj1705/DSA/tree/master/1250-longest-common-subsequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sj1705/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sj1705/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sj1705/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -111,6 +112,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0494-target-sum](https://github.com/sj1705/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sj1705/DSA/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/sj1705/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/sj1705/DSA/tree/master/1250-longest-common-subsequence) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
