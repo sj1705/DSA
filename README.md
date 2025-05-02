@@ -7,6 +7,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/sj1705/DSA/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/sj1705/DSA/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/sj1705/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sj1705/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1170-shortest-common-supersequence](https://github.com/sj1705/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -108,6 +109,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0063-unique-paths-ii](https://github.com/sj1705/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sj1705/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/sj1705/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sj1705/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1705/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
