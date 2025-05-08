@@ -1,5 +1,8 @@
 class Solution {
 public:
+
+// simply took the code of dp 37 
+// buy sell  stock 3
     int maxProfit(int k, vector<int>& prices) {
         int n = prices.size();
         vector<vector<int>> after(2,vector<int>(k+1,0));
