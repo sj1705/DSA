@@ -1,22 +1,24 @@
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> ahead(n + 1, 0), curr(n + 1, 0);
-
-        for (int ind = n - 1; ind >= 0; ind--) {
-            for (int prev = ind - 1; prev >= -1; prev--) {
-                int len = ahead[prev + 1];  // not take
-
-                if (prev == -1 || nums[ind] > nums[prev]) {
-                    len = max(len, 1 + ahead[ind + 1]);  // take
-                }
-
-                curr[prev + 1] = len;
+    int lengthOfLIS(vector<int>& arr) {
+        int n= arr.size();
+            vector<int> dp(n,1);
+    
+    for(int i=0; i<=n-1; i++){
+        for(int prev_index = 0; prev_index <=i-1; prev_index ++){
+            
+            if(arr[prev_index]<arr[i]){
+                dp[i] = max(dp[i], 1 + dp[prev_index]);
             }
-            ahead = curr;  // move current row up
         }
-
-        return ahead[0];
+    }
+    
+    int ans = -1;
+    
+    for(int i=0; i<=n-1; i++){
+        ans = max(ans, dp[i]);
+    }
+    
+    return ans;
     }
 };
