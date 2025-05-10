@@ -46,6 +46,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sj1705/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sj1705/DSA/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sj1705/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sj1705/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
@@ -125,6 +126,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sj1705/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sj1705/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sj1705/DSA/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sj1705/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sj1705/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
@@ -176,6 +178,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0907-koko-eating-bananas) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sj1705/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
