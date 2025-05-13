@@ -54,6 +54,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0455-assign-cookies](https://github.com/sj1705/DSA/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sj1705/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sj1705/DSA/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1705/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0907-koko-eating-bananas) |
@@ -135,6 +136,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0516-longest-palindromic-subsequence](https://github.com/sj1705/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sj1705/DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/sj1705/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1705/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/sj1705/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/sj1705/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -274,4 +276,12 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/sj1705/DSA/tree/master/2048-build-array-from-permutation) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
