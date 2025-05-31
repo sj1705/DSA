@@ -10,6 +10,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0038-count-and-say](https://github.com/sj1705/DSA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/sj1705/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sj1705/DSA/tree/master/0115-distinct-subsequences) |
+| [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/sj1705/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sj1705/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/sj1705/DSA/tree/master/1129-longest-string-chain) |
@@ -106,6 +107,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/sj1705/DSA/tree/master/0940-fruit-into-baskets) |
 | [1129-longest-string-chain](https://github.com/sj1705/DSA/tree/master/1129-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -281,6 +283,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1705/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/sj1705/DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1705/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sj1705/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
