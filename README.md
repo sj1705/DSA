@@ -9,6 +9,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1705/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/sj1705/DSA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/sj1705/DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/sj1705/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/sj1705/DSA/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/sj1705/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -111,6 +112,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0001-two-sum](https://github.com/sj1705/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1705/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/sj1705/DSA/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -294,6 +296,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1705/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sj1705/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/sj1705/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sj1705/DSA/tree/master/0966-binary-subarrays-with-sum) |
