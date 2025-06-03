@@ -37,6 +37,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sj1705/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/sj1705/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sj1705/DSA/tree/master/0046-permutations) |
@@ -173,6 +174,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -189,6 +191,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/sj1705/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
