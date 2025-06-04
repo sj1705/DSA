@@ -55,6 +55,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sj1705/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sj1705/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/sj1705/DSA/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sj1705/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sj1705/DSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sj1705/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sj1705/DSA/tree/master/0198-house-robber) |
@@ -222,6 +223,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sj1705/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sj1705/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0907-koko-eating-bananas) |
