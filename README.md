@@ -119,6 +119,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1705/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sj1705/DSA/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/sj1705/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sj1705/DSA/tree/master/0169-majority-element) |
@@ -184,6 +185,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/sj1705/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
@@ -243,6 +245,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sj1705/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/sj1705/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
