@@ -10,6 +10,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0038-count-and-say](https://github.com/sj1705/DSA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/sj1705/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sj1705/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sj1705/DSA/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/sj1705/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -51,6 +52,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sj1705/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sj1705/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1705/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -147,6 +149,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0063-unique-paths-ii](https://github.com/sj1705/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sj1705/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/sj1705/DSA/tree/master/0967-minimum-falling-path-sum) |
 ## Dynamic Programming
@@ -272,10 +275,12 @@ This repository is a collection of algorithms and data structures that are commo
 | [0039-combination-sum](https://github.com/sj1705/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sj1705/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sj1705/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/sj1705/DSA/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
