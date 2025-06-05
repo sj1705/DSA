@@ -1,28 +1,37 @@
 class Solution {
-public:
-    int func(vector<int> piles, int mid,int h)
+private:
+    long long cal_tot_hrs(vector<int> & piles,int mid)
     {
-        int sum=0;
-               for(int i=0;i<piles.size();i++)
-               {
-                sum=sum+ceil((double)piles[i]/ (double)mid);
-                if(sum>h) break;
-               }
-               return sum;
-    }
-    int minEatingSpeed(vector<int>& piles, int h) {
-        int start=1;
-        int end=*max_element(piles.begin(),piles.end());
-        while(start<=end)
+        long long totm=0;
+        int n=piles.size();
+        for(int i=0;i<n;i++)
         {
-            int mid=(start+end)/2;
-            int consume=func(piles,mid,h);
-            if(consume<=h)
-            {
-              end=mid-1;
-            }
-            else start=mid+1;
+            totm=totm+ceil((double)piles[i]/(double)mid);
         }
-        return start;
+        return totm;
+    }
+    int max_ele(vector<int> & piles)
+    {
+        int n=piles.size();
+        int max_ele=INT_MIN;
+        for(auto i: piles)
+            if(i>max_ele) max_ele=i;
+        return max_ele;
+    }
+public:
+    int minEatingSpeed(vector<int>& piles, int h) {
+        int low=1,high=max_ele(piles), ans=INT_MIN;
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            long long tot_hrs=cal_tot_hrs(piles,mid);
+            if(tot_hrs<=h)
+            {
+                ans=mid;
+                high=mid-1;
+            }
+            else low=mid+1;
+        }
+        return ans;
     }
 };
