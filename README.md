@@ -66,6 +66,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sj1705/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sj1705/DSA/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/sj1705/DSA/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/sj1705/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sj1705/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -337,6 +338,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1705/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sj1705/DSA/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/sj1705/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/sj1705/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sj1705/DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -350,10 +352,12 @@ This repository is a collection of algorithms and data structures that are commo
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sj1705/DSA/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sj1705/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sj1705/DSA/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sj1705/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Simulation
 |  |
@@ -378,4 +382,8 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sj1705/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
