@@ -49,6 +49,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0064-minimum-path-sum](https://github.com/sj1705/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sj1705/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sj1705/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1705/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -239,6 +240,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sj1705/DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Linked List
@@ -265,6 +267,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0039-combination-sum](https://github.com/sj1705/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sj1705/DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/sj1705/DSA/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sj1705/DSA/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
