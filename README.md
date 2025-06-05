@@ -43,6 +43,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0033-search-in-rotated-sorted-array](https://github.com/sj1705/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/sj1705/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sj1705/DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sj1705/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sj1705/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sj1705/DSA/tree/master/0053-maximum-subarray) |
@@ -155,6 +156,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sj1705/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sj1705/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sj1705/DSA/tree/master/0063-unique-paths-ii) |
@@ -191,6 +193,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sj1705/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -267,6 +270,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
@@ -367,4 +371,8 @@ This repository is a collection of algorithms and data structures that are commo
 | [0169-majority-element](https://github.com/sj1705/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sj1705/DSA/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sj1705/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
