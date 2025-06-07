@@ -288,6 +288,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/sj1705/DSA/tree/master/0110-balanced-binary-tree) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
@@ -309,11 +310,13 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sj1705/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/sj1705/DSA/tree/master/0110-balanced-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sj1705/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/sj1705/DSA/tree/master/0110-balanced-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Ordered Set
 |  |
