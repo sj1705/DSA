@@ -105,6 +105,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/sj1705/DSA/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sj1705/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -291,6 +292,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/sj1705/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sj1705/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0386-lexicographical-numbers](https://github.com/sj1705/DSA/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/sj1705/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
