@@ -298,6 +298,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0386-lexicographical-numbers](https://github.com/sj1705/DSA/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/sj1705/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/sj1705/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -305,6 +306,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0102-binary-tree-level-order-traversal](https://github.com/sj1705/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/sj1705/DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/sj1705/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Memoization
 |  |
@@ -321,6 +323,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0110-balanced-binary-tree](https://github.com/sj1705/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sj1705/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/sj1705/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/sj1705/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
