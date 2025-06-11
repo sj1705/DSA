@@ -270,6 +270,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sj1705/DSA/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/sj1705/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/sj1705/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
