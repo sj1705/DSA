@@ -249,6 +249,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1370-count-number-of-nice-subarrays](https://github.com/sj1705/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sj1705/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/sj1705/DSA/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sj1705/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/sj1705/DSA/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sj1705/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
@@ -367,6 +368,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0135-candy](https://github.com/sj1705/DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/sj1705/DSA/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1705/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sj1705/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sj1705/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Enumeration
 |  |
