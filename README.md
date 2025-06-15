@@ -41,6 +41,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sj1705/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sj1705/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sj1705/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -210,6 +211,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sj1705/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
@@ -368,6 +370,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sj1705/DSA/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sj1705/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sj1705/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sj1705/DSA/tree/master/0135-candy) |
