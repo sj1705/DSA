@@ -22,6 +22,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sj1705/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sj1705/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sj1705/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sj1705/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sj1705/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sj1705/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sj1705/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -152,6 +153,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1370-count-number-of-nice-subarrays](https://github.com/sj1705/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sj1705/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/sj1705/DSA/tree/master/1500-count-largest-group) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sj1705/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sj1705/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sj1705/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sj1705/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -305,6 +307,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/sj1705/DSA/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/sj1705/DSA/tree/master/0494-target-sum) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sj1705/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
