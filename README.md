@@ -61,6 +61,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1705/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sj1705/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sj1705/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0134-gas-station](https://github.com/sj1705/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sj1705/DSA/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/sj1705/DSA/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sj1705/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -365,6 +366,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sj1705/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/sj1705/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sj1705/DSA/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/sj1705/DSA/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1705/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
