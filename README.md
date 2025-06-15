@@ -44,6 +44,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0001-two-sum](https://github.com/sj1705/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sj1705/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sj1705/DSA/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sj1705/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/sj1705/DSA/tree/master/0037-sudoku-solver) |
@@ -215,6 +216,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0011-container-with-most-water](https://github.com/sj1705/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sj1705/DSA/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
@@ -238,6 +240,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/sj1705/DSA/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/sj1705/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sj1705/DSA/tree/master/0169-majority-element) |
