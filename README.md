@@ -201,6 +201,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0300-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sj1705/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sj1705/DSA/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/sj1705/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sj1705/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sj1705/DSA/tree/master/0494-target-sum) |
@@ -260,6 +261,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0048-rotate-image](https://github.com/sj1705/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sj1705/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
+| [0343-integer-break](https://github.com/sj1705/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sj1705/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sj1705/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
