@@ -1,7 +1,7 @@
 class Solution {
 public:
     int integerBreak(int n) {
-        static const int correct_results[59] = {
+        int correct_results[59] = {
             0,
             0,
             1,
