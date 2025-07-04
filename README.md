@@ -17,6 +17,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/sj1705/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sj1705/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0657-robot-return-to-origin](https://github.com/sj1705/DSA/tree/master/0657-robot-return-to-origin) |
 | [1129-longest-string-chain](https://github.com/sj1705/DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/sj1705/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sj1705/DSA/tree/master/1250-longest-common-subsequence) |
@@ -440,6 +441,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sj1705/DSA/tree/master/0412-fizz-buzz) |
+| [0657-robot-return-to-origin](https://github.com/sj1705/DSA/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/sj1705/DSA/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/sj1705/DSA/tree/master/2048-build-array-from-permutation) |
 ## Binary Indexed Tree
