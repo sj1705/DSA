@@ -13,6 +13,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sj1705/DSA/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/sj1705/DSA/tree/master/0140-word-break-ii) |
+| [0412-fizz-buzz](https://github.com/sj1705/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/sj1705/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/sj1705/DSA/tree/master/0583-delete-operation-for-two-strings) |
@@ -266,6 +267,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/sj1705/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/sj1705/DSA/tree/master/0412-fizz-buzz) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sj1705/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sj1705/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/sj1705/DSA/tree/master/1500-count-largest-group) |
@@ -437,6 +439,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/sj1705/DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/sj1705/DSA/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/sj1705/DSA/tree/master/2048-build-array-from-permutation) |
 ## Binary Indexed Tree
