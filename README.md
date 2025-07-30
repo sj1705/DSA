@@ -114,6 +114,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sj1705/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sj1705/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sj1705/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/sj1705/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sj1705/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sj1705/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sj1705/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
