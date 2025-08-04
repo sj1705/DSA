@@ -478,4 +478,8 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sj1705/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/sj1705/DSA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
