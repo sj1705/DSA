@@ -269,6 +269,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0048-rotate-image](https://github.com/sj1705/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sj1705/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/sj1705/DSA/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/sj1705/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/sj1705/DSA/tree/master/0412-fizz-buzz) |
@@ -321,6 +322,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0024-swap-nodes-in-pairs](https://github.com/sj1705/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sj1705/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/sj1705/DSA/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
