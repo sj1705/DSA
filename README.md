@@ -108,6 +108,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sj1705/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1656-count-good-triplets](https://github.com/sj1705/DSA/tree/master/1656-count-good-triplets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sj1705/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1917-maximum-average-pass-ratio](https://github.com/sj1705/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2048-build-array-from-permutation](https://github.com/sj1705/DSA/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sj1705/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sj1705/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -419,6 +420,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0455-assign-cookies](https://github.com/sj1705/DSA/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1705/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sj1705/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1917-maximum-average-pass-ratio](https://github.com/sj1705/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sj1705/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Enumeration
 |  |
@@ -485,6 +487,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sj1705/DSA/tree/master/0239-sliding-window-maximum) |
+| [1917-maximum-average-pass-ratio](https://github.com/sj1705/DSA/tree/master/1917-maximum-average-pass-ratio) |
 ## Binary Search Tree
 |  |
 | ------- |
