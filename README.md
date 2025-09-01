@@ -248,6 +248,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1129-longest-string-chain](https://github.com/sj1705/DSA/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sj1705/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/sj1705/DSA/tree/master/2481-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,6 +285,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sj1705/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/sj1705/DSA/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sj1705/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2481-strictly-palindromic-number](https://github.com/sj1705/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/sj1705/DSA/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sj1705/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sj1705/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -491,4 +493,8 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/sj1705/DSA/tree/master/0196-delete-duplicate-emails) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/sj1705/DSA/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
