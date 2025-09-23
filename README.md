@@ -13,6 +13,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sj1705/DSA/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/sj1705/DSA/tree/master/0140-word-break-ii) |
+| [0165-compare-version-numbers](https://github.com/sj1705/DSA/tree/master/0165-compare-version-numbers) |
 | [0412-fizz-buzz](https://github.com/sj1705/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/sj1705/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -246,6 +247,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0141-linked-list-cycle](https://github.com/sj1705/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0165-compare-version-numbers](https://github.com/sj1705/DSA/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/sj1705/DSA/tree/master/0455-assign-cookies) |
