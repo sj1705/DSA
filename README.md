@@ -299,6 +299,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sj1705/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/sj1705/DSA/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sj1705/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/sj1705/DSA/tree/master/1642-water-bottles) |
 | [2481-strictly-palindromic-number](https://github.com/sj1705/DSA/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/sj1705/DSA/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sj1705/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -479,6 +480,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0498-diagonal-traverse](https://github.com/sj1705/DSA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/sj1705/DSA/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/sj1705/DSA/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/sj1705/DSA/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/sj1705/DSA/tree/master/2048-build-array-from-permutation) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sj1705/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Binary Indexed Tree
