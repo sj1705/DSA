@@ -304,6 +304,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2998-count-symmetric-integers](https://github.com/sj1705/DSA/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sj1705/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sj1705/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/sj1705/DSA/tree/master/3336-water-bottles-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sj1705/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/sj1705/DSA/tree/master/3830-find-closest-person) |
 ## Binary Search
@@ -483,6 +484,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1642-water-bottles](https://github.com/sj1705/DSA/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/sj1705/DSA/tree/master/2048-build-array-from-permutation) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sj1705/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/sj1705/DSA/tree/master/3336-water-bottles-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
