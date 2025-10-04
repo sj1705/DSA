@@ -6,15 +6,15 @@ public:
     int maxArea = 0;
 
     while (left < right) {
-        int h = std::min(height[left], height[right]);
+        int h = min(height[left], height[right]);
         int w = right - left;
-        maxArea = std::max(maxArea, h * w);
+        maxArea = max(maxArea, h * w);
 
         // Move the pointer at the shorter line
         if (height[left] < height[right])
-            ++left;
+            left++;
         else
-            --right;
+            right--;
     }
 
     return maxArea;
