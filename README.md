@@ -111,6 +111,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sj1705/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sj1705/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sj1705/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1612-avoid-flood-in-the-city](https://github.com/sj1705/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1656-count-good-triplets](https://github.com/sj1705/DSA/tree/master/1656-count-good-triplets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sj1705/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1705/DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -179,6 +180,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sj1705/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/sj1705/DSA/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sj1705/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/sj1705/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sj1705/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2429-design-a-food-rating-system](https://github.com/sj1705/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sj1705/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -323,6 +325,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0713-subarray-product-less-than-k](https://github.com/sj1705/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1705/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1612-avoid-flood-in-the-city](https://github.com/sj1705/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sj1705/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sj1705/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -444,6 +447,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0455-assign-cookies](https://github.com/sj1705/DSA/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1705/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sj1705/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/sj1705/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1705/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sj1705/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Enumeration
@@ -517,6 +521,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sj1705/DSA/tree/master/0239-sliding-window-maximum) |
+| [1612-avoid-flood-in-the-city](https://github.com/sj1705/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1705/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/sj1705/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Binary Search Tree
