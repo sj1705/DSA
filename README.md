@@ -43,6 +43,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sj1705/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sj1705/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sj1705/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sj1705/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
 |  |
 | ------- |
@@ -136,6 +137,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sj1705/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sj1705/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sj1705/DSA/tree/master/3748-sort-matrix-by-diagonals) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sj1705/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Trie
 |  |
 | ------- |
@@ -499,6 +501,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2048-build-array-from-permutation](https://github.com/sj1705/DSA/tree/master/2048-build-array-from-permutation) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sj1705/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/sj1705/DSA/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sj1705/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Indexed Tree
 |  |
 | ------- |
