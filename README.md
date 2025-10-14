@@ -135,6 +135,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sj1705/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sj1705/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sj1705/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/sj1705/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sj1705/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sj1705/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sj1705/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
