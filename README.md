@@ -123,6 +123,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sj1705/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sj1705/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2169-simple-bank-system](https://github.com/sj1705/DSA/tree/master/2169-simple-bank-system) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sj1705/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sj1705/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sj1705/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -190,6 +191,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1510-find-lucky-integer-in-an-array](https://github.com/sj1705/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1705/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sj1705/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2169-simple-bank-system](https://github.com/sj1705/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sj1705/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2429-design-a-food-rating-system](https://github.com/sj1705/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sj1705/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -512,6 +514,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0735-asteroid-collision](https://github.com/sj1705/DSA/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/sj1705/DSA/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/sj1705/DSA/tree/master/2048-build-array-from-permutation) |
+| [2169-simple-bank-system](https://github.com/sj1705/DSA/tree/master/2169-simple-bank-system) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sj1705/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/sj1705/DSA/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sj1705/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -566,6 +569,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Design
 |  |
 | ------- |
+| [2169-simple-bank-system](https://github.com/sj1705/DSA/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/sj1705/DSA/tree/master/2429-design-a-food-rating-system) |
 ## Number Theory
 |  |
