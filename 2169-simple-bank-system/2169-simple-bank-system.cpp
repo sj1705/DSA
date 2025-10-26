@@ -23,12 +23,11 @@ public:
     }
     
     bool withdraw(int account, long long money) {
-        if(account>n)
+        if(account>n || balance[account-1] - money < 0)
             return false;
-        if(balance[account-1] -money>=0)
+        
             balance[account-1] -=money;
-        else 
-            return false;
+        
         return true;
     }
 };
