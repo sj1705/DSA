@@ -333,6 +333,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sj1705/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sj1705/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/sj1705/DSA/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sj1705/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sj1705/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sj1705/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/sj1705/DSA/tree/master/3830-find-closest-person) |
@@ -360,6 +361,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0078-subsets](https://github.com/sj1705/DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sj1705/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
 | ------- |
