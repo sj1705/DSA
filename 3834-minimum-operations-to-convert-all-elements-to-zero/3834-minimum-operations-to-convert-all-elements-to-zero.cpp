@@ -5,7 +5,7 @@ public:
         int ops=0;
         for(int i=0;i<nums.size();i++)
         {
-            while(!st.empty()&& st.top()>nums[i])
+            while(!st.empty()&& st.top()>nums[i]) // monotonic stack
             {
                 st.pop();
             }
