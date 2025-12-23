@@ -39,7 +39,7 @@ public:
     int maxTwoEvents(vector<vector<int>>& events) {
         int n=events.size();
         sort(begin(events),end(events));
-        vector<vector<int>> dp(n, vector<int>(2,-1));
+        vector<vector<int>> dp(n, vector<int>(3,-1));
         int count=0;
         return solve(events,0,count,dp);
     }
