@@ -1,46 +1,38 @@
 class Solution {
 public:
-    int findnextValidEvent(vector<vector<int>>& events,int i)
-    {
-        int n=events.size();
-        int l=0;
-        int r=n-1;
-        int res=n;
-        while(l<=r)
-        {
-            int mid=l+(r-l)/2;
-            if(events[mid][0]>i)
-            {
-                res=mid;
-                r=mid-1;
-            }
-            else
-            {
-                l=mid+1;
+    int maxTwoEvents(vector<vector<int>>& events) {
+        int n = events.size();
+        sort(events.begin(), events.end());
+        vector<int> maxSuffix(n);
+        maxSuffix[n - 1] = events[n - 1][2];
 
+        for (int i = n - 2; i >= 0; i--) {
+            maxSuffix[i] = max(maxSuffix[i + 1], events[i][2]);
+        }
+
+        int ans = 0;
+
+        for (int i = 0; i < n; i++) {
+            int currValue = events[i][2];
+            ans = max(ans, currValue);
+
+            int nextStart = events[i][1] + 1;
+            int low = i + 1, high = n - 1, idx = -1;
+            while (low <= high) {
+                int mid = (low + high) / 2;
+                if (events[mid][0] >= nextStart) {
+                    idx = mid;
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
+                }
+            }
+
+            if (idx != -1) {
+                ans = max(ans, currValue + maxSuffix[idx]);
             }
         }
-        return res;
 
-    }
-    int solve(vector<vector<int>>& events, int i,int count,vector<vector<int>> &dp)
-    {
-        int n=events.size();
-        if(count ==2 || i >=n)
-            return 0;
-        if(dp[i][count]!=-1)
-            return dp[i][count];
-        int nextValidEvent=findnextValidEvent(events,events[i][1]);
-        int take=events[i][2]+solve(events,nextValidEvent,count+1,dp);
-        int ntake=solve(events,i+1,count,dp);
-
-        return dp[i][count]=max(take,ntake);
-    }
-    int maxTwoEvents(vector<vector<int>>& events) {
-        int n=events.size();
-        sort(begin(events),end(events));
-        vector<vector<int>> dp(n, vector<int>(3,-1));
-        int count=0;
-        return solve(events,0,count,dp);
+        return ans;
     }
 };
