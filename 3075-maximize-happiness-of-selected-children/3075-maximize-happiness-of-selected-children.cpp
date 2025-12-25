@@ -8,8 +8,6 @@ public:
             
                 if(happiness[i]-i>0)
                     sum+=happiness[i]-i;
-                else 
-                    break;
 
         }
         return sum;
