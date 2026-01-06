@@ -41,6 +41,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sj1705/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sj1705/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/sj1705/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1705/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -101,6 +102,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0494-target-sum](https://github.com/sj1705/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/sj1705/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/sj1705/DSA/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/sj1705/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/sj1705/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sj1705/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -197,6 +199,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0169-majority-element](https://github.com/sj1705/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sj1705/DSA/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/sj1705/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sj1705/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0940-fruit-into-baskets](https://github.com/sj1705/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sj1705/DSA/tree/master/0966-binary-subarrays-with-sum) |
