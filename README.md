@@ -449,6 +449,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/sj1705/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1705/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sj1705/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -482,6 +483,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/sj1705/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1705/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sj1705/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -493,6 +495,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sj1705/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1705/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/sj1705/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Ordered Set
 |  |
 | ------- |
