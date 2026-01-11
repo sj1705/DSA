@@ -76,6 +76,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sj1705/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sj1705/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sj1705/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1705/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -434,6 +435,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sj1705/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sj1705/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sj1705/DSA/tree/master/0503-next-greater-element-ii) |
@@ -630,6 +632,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sj1705/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/sj1705/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sj1705/DSA/tree/master/0503-next-greater-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sj1705/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
