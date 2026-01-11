@@ -77,6 +77,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0078-subsets](https://github.com/sj1705/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sj1705/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sj1705/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sj1705/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sj1705/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -247,6 +248,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0064-minimum-path-sum](https://github.com/sj1705/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sj1705/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/sj1705/DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sj1705/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sj1705/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/sj1705/DSA/tree/master/0498-diagonal-traverse) |
@@ -264,6 +266,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0064-minimum-path-sum](https://github.com/sj1705/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sj1705/DSA/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/sj1705/DSA/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/sj1705/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/sj1705/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sj1705/DSA/tree/master/0120-triangle) |
@@ -436,6 +439,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sj1705/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sj1705/DSA/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sj1705/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sj1705/DSA/tree/master/0503-next-greater-element-ii) |
@@ -633,6 +637,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sj1705/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/sj1705/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/sj1705/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sj1705/DSA/tree/master/0503-next-greater-element-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sj1705/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
