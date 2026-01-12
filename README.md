@@ -127,6 +127,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1034-subarrays-with-k-different-integers](https://github.com/sj1705/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1705/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/sj1705/DSA/tree/master/1129-longest-string-chain) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sj1705/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1705/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sj1705/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sj1705/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -362,6 +363,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/sj1705/DSA/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/sj1705/DSA/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sj1705/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sj1705/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sj1705/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sj1705/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -666,6 +668,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/sj1705/DSA/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sj1705/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sj1705/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Design
 |  |
