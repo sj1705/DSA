@@ -128,6 +128,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1046-max-consecutive-ones-iii](https://github.com/sj1705/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/sj1705/DSA/tree/master/1129-longest-string-chain) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sj1705/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sj1705/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1705/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sj1705/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sj1705/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -403,6 +404,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0875-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1705/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sj1705/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sj1705/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1705/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-two-best-non-overlapping-events](https://github.com/sj1705/DSA/tree/master/2054-two-best-non-overlapping-events) |
