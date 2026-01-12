@@ -124,6 +124,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0940-fruit-into-baskets](https://github.com/sj1705/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/sj1705/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/sj1705/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sj1705/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sj1705/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1705/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1129-longest-string-chain](https://github.com/sj1705/DSA/tree/master/1129-longest-string-chain) |
@@ -403,6 +404,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0713-subarray-product-less-than-k](https://github.com/sj1705/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sj1705/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1705/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sj1705/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sj1705/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
