@@ -169,6 +169,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sj1705/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sj1705/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sj1705/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3453-separate-squares-i](https://github.com/sj1705/DSA/tree/master/3453-separate-squares-i) |
 | [3583-count-special-triplets](https://github.com/sj1705/DSA/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/sj1705/DSA/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sj1705/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -421,6 +422,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sj1705/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sj1705/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sj1705/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3453-separate-squares-i](https://github.com/sj1705/DSA/tree/master/3453-separate-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
