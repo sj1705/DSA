@@ -47,6 +47,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0713-subarray-product-less-than-k](https://github.com/sj1705/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/sj1705/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1705/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sj1705/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sj1705/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sj1705/DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sj1705/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -134,6 +135,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1129-longest-string-chain](https://github.com/sj1705/DSA/tree/master/1129-longest-string-chain) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sj1705/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sj1705/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sj1705/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1705/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sj1705/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sj1705/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -271,6 +273,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0498-diagonal-traverse](https://github.com/sj1705/DSA/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/sj1705/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sj1705/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/sj1705/DSA/tree/master/1895-largest-magic-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sj1705/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sj1705/DSA/tree/master/3748-sort-matrix-by-diagonals) |
@@ -426,6 +429,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sj1705/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/sj1705/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sj1705/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sj1705/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sj1705/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sj1705/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1705/DSA/tree/master/1612-avoid-flood-in-the-city) |
