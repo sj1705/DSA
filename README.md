@@ -181,6 +181,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sj1705/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/sj1705/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sj1705/DSA/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1705/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/sj1705/DSA/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/sj1705/DSA/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sj1705/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -251,6 +252,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sj1705/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sj1705/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sj1705/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1705/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3583-count-special-triplets](https://github.com/sj1705/DSA/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/sj1705/DSA/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sj1705/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -466,6 +468,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0725-split-linked-list-in-parts](https://github.com/sj1705/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/sj1705/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sj1705/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1705/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -574,6 +577,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/sj1705/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1705/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -649,6 +653,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sj1705/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sj1705/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/sj1705/DSA/tree/master/3336-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1705/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sj1705/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sj1705/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sj1705/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -691,6 +696,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1917-maximum-average-pass-ratio](https://github.com/sj1705/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/sj1705/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2429-design-a-food-rating-system](https://github.com/sj1705/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1705/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sj1705/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search Tree
 |  |
@@ -725,4 +731,8 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/sj1705/DSA/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1705/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
