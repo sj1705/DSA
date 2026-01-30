@@ -34,6 +34,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2292-counting-words-with-a-given-prefix](https://github.com/sj1705/DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2429-design-a-food-rating-system](https://github.com/sj1705/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1705/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1705/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sj1705/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sj1705/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/sj1705/DSA/tree/master/3606-coupon-code-validator) |
@@ -176,6 +177,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sj1705/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sj1705/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1705/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1705/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sj1705/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sj1705/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sj1705/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -206,6 +208,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0140-word-break-ii](https://github.com/sj1705/DSA/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/sj1705/DSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/sj1705/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1705/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sj1705/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -334,6 +337,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2054-two-best-non-overlapping-events](https://github.com/sj1705/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sj1705/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1705/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sj1705/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Two Pointers
 |  |
@@ -761,10 +765,12 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1705/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1705/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sj1705/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1705/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1705/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sj1705/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
