@@ -124,6 +124,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0717-1-bit-and-2-bit-characters](https://github.com/sj1705/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sj1705/DSA/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sj1705/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sj1705/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0830-largest-triangle-area](https://github.com/sj1705/DSA/tree/master/0830-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0875-koko-eating-bananas) |
@@ -446,6 +447,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0540-single-element-in-a-sorted-array](https://github.com/sj1705/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sj1705/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sj1705/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sj1705/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/sj1705/DSA/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sj1705/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
