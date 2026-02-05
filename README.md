@@ -189,6 +189,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sj1705/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sj1705/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sj1705/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/sj1705/DSA/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/sj1705/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sj1705/DSA/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1705/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -686,6 +687,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sj1705/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sj1705/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/sj1705/DSA/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/sj1705/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1705/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sj1705/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sj1705/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
