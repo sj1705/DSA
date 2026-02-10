@@ -58,6 +58,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1895-largest-magic-square](https://github.com/sj1705/DSA/tree/master/1895-largest-magic-square) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sj1705/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sj1705/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3719-longest-balanced-subarray-i](https://github.com/sj1705/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sj1705/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
 |  |
@@ -206,6 +207,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3640-trionic-array-ii](https://github.com/sj1705/DSA/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sj1705/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sj1705/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/sj1705/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sj1705/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sj1705/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sj1705/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -278,6 +280,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sj1705/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sj1705/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sj1705/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3719-longest-balanced-subarray-i](https://github.com/sj1705/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sj1705/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sj1705/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sj1705/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -381,6 +384,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0169-majority-element](https://github.com/sj1705/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sj1705/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/sj1705/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/sj1705/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -713,6 +717,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3454-separate-squares-ii](https://github.com/sj1705/DSA/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/sj1705/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
