@@ -39,6 +39,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sj1705/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sj1705/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/sj1705/DSA/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/sj1705/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sj1705/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sj1705/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sj1705/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -282,6 +283,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sj1705/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sj1705/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sj1705/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3713-longest-balanced-substring-i](https://github.com/sj1705/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sj1705/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sj1705/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sj1705/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -661,6 +663,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2998-count-symmetric-integers](https://github.com/sj1705/DSA/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sj1705/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sj1705/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3713-longest-balanced-substring-i](https://github.com/sj1705/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -734,6 +737,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3242-count-elements-with-maximum-frequency](https://github.com/sj1705/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sj1705/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/sj1705/DSA/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/sj1705/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sj1705/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sj1705/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Monotonic Stack
