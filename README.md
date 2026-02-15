@@ -8,6 +8,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1705/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/sj1705/DSA/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/sj1705/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sj1705/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sj1705/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
@@ -429,6 +430,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0048-rotate-image](https://github.com/sj1705/DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sj1705/DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/sj1705/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/sj1705/DSA/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/sj1705/DSA/tree/master/0343-integer-break) |
@@ -495,6 +497,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sj1705/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sj1705/DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -703,6 +706,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sj1705/DSA/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/sj1705/DSA/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/sj1705/DSA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/sj1705/DSA/tree/master/0657-robot-return-to-origin) |
