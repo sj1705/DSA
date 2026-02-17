@@ -500,6 +500,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0067-add-binary](https://github.com/sj1705/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sj1705/DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0401-binary-watch](https://github.com/sj1705/DSA/tree/master/0401-binary-watch) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sj1705/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sj1705/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -548,6 +549,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0078-subsets](https://github.com/sj1705/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/sj1705/DSA/tree/master/0140-word-break-ii) |
+| [0401-binary-watch](https://github.com/sj1705/DSA/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/sj1705/DSA/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/sj1705/DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sj1705/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
