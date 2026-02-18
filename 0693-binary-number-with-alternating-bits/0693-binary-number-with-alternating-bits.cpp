@@ -1,12 +1,11 @@
 class Solution {
 public:
-    bool hasAlternatingBits(unsigned n) {
-        bitset<32> B(n);
-        int mB=31-countl_zero(n);
-        bool prevB=1;
-        for(int i=mB-1; i>=0; i--, prevB=!prevB){
-            if (B[i]==prevB) return 0;
+    bool hasAlternatingBits(int n) {
+        bitset<32> b(n);
+        int bits = log2(n);
+        for(int i = 0; i<=bits; i++) {
+            if(b[i] == b[i+1]) return false;
         }
-        return 1;
+        return true;
     }
 };
