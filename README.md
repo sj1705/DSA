@@ -21,6 +21,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0583-delete-operation-for-two-strings](https://github.com/sj1705/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/sj1705/DSA/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sj1705/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/sj1705/DSA/tree/master/0761-special-binary-string) |
 | [1129-longest-string-chain](https://github.com/sj1705/DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/sj1705/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sj1705/DSA/tree/master/1250-longest-common-subsequence) |
@@ -393,6 +394,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0053-maximum-subarray](https://github.com/sj1705/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sj1705/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sj1705/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0761-special-binary-string](https://github.com/sj1705/DSA/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/sj1705/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/sj1705/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/sj1705/DSA/tree/master/3721-longest-balanced-subarray-ii) |
@@ -409,6 +411,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sj1705/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sj1705/DSA/tree/master/0455-assign-cookies) |
 | [0759-set-intersection-size-at-least-two](https://github.com/sj1705/DSA/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/sj1705/DSA/tree/master/0761-special-binary-string) |
 | [1129-longest-string-chain](https://github.com/sj1705/DSA/tree/master/1129-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/sj1705/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1705/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
