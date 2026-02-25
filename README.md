@@ -150,6 +150,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sj1705/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sj1705/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1705/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sj1705/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sj1705/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sj1705/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sj1705/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -419,6 +420,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1129-longest-string-chain](https://github.com/sj1705/DSA/tree/master/1129-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/sj1705/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1705/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sj1705/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sj1705/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sj1705/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/sj1705/DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -512,6 +514,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0693-binary-number-with-alternating-bits](https://github.com/sj1705/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sj1705/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/sj1705/DSA/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sj1705/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sj1705/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sj1705/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -757,6 +760,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0169-majority-element](https://github.com/sj1705/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sj1705/DSA/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sj1705/DSA/tree/master/1034-subarrays-with-k-different-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sj1705/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sj1705/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sj1705/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sj1705/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
