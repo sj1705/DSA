@@ -26,6 +26,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1170-shortest-common-supersequence](https://github.com/sj1705/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/sj1705/DSA/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sj1705/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sj1705/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sj1705/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sj1705/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sj1705/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -515,6 +516,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sj1705/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/sj1705/DSA/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sj1705/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sj1705/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sj1705/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sj1705/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -731,6 +733,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0498-diagonal-traverse](https://github.com/sj1705/DSA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/sj1705/DSA/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/sj1705/DSA/tree/master/0735-asteroid-collision) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sj1705/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/sj1705/DSA/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/sj1705/DSA/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/sj1705/DSA/tree/master/2169-simple-bank-system) |
