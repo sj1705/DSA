@@ -43,6 +43,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sj1705/DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sj1705/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/sj1705/DSA/tree/master/3606-coupon-code-validator) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sj1705/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/sj1705/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/sj1705/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sj1705/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -468,6 +469,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sj1705/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sj1705/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/sj1705/DSA/tree/master/3336-water-bottles-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sj1705/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sj1705/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sj1705/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sj1705/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -604,6 +606,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1705/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sj1705/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -656,6 +659,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2429-design-a-food-rating-system](https://github.com/sj1705/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1705/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sj1705/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sj1705/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bitmask
 |  |
 | ------- |
@@ -845,4 +849,8 @@ This repository is a collection of algorithms and data structures that are commo
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1705/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1705/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sj1705/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/sj1705/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
