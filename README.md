@@ -13,6 +13,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0076-minimum-window-substring](https://github.com/sj1705/DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/sj1705/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/sj1705/DSA/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/sj1705/DSA/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/sj1705/DSA/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/sj1705/DSA/tree/master/0344-reverse-string) |
@@ -395,6 +396,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/sj1705/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sj1705/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
