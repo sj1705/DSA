@@ -81,6 +81,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sj1705/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sj1705/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sj1705/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sj1705/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sj1705/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -393,6 +394,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0015-3sum](https://github.com/sj1705/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sj1705/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sj1705/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sj1705/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sj1705/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sj1705/DSA/tree/master/0075-sort-colors) |
