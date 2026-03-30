@@ -115,6 +115,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0229-majority-element-ii](https://github.com/sj1705/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/sj1705/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sj1705/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/sj1705/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/sj1705/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sj1705/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -399,6 +400,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0165-compare-version-numbers](https://github.com/sj1705/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sj1705/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/sj1705/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/sj1705/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sj1705/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
