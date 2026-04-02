@@ -212,6 +212,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sj1705/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sj1705/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/sj1705/DSA/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sj1705/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/sj1705/DSA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sj1705/DSA/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sj1705/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -334,6 +335,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1895-largest-magic-square](https://github.com/sj1705/DSA/tree/master/1895-largest-magic-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sj1705/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sj1705/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sj1705/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sj1705/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sj1705/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sj1705/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -385,6 +387,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sj1705/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1705/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sj1705/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/sj1705/DSA/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sj1705/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Two Pointers
