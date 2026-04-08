@@ -405,6 +405,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0125-valid-palindrome](https://github.com/sj1705/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sj1705/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sj1705/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sj1705/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sj1705/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -567,6 +568,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sj1705/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sj1705/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sj1705/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sj1705/DSA/tree/master/0237-delete-node-in-a-linked-list) |
@@ -582,6 +584,7 @@ This repository is a collection of algorithms and data structures that are commo
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sj1705/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sj1705/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/sj1705/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sj1705/DSA/tree/master/0326-power-of-three) |
 ## Stack
@@ -590,6 +593,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sj1705/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sj1705/DSA/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/sj1705/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sj1705/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sj1705/DSA/tree/master/0503-next-greater-element-ii) |
