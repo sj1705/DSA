@@ -272,6 +272,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0142-linked-list-cycle-ii](https://github.com/sj1705/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sj1705/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sj1705/DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/sj1705/DSA/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sj1705/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sj1705/DSA/tree/master/0496-next-greater-element-i) |
@@ -407,6 +408,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0160-intersection-of-two-linked-lists](https://github.com/sj1705/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/sj1705/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sj1705/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/sj1705/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sj1705/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sj1705/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sj1705/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -471,6 +473,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0062-unique-paths](https://github.com/sj1705/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sj1705/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sj1705/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/sj1705/DSA/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/sj1705/DSA/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/sj1705/DSA/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/sj1705/DSA/tree/master/0368-largest-divisible-subset) |
