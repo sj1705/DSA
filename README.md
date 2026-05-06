@@ -644,6 +644,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/sj1705/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sj1705/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sj1705/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sj1705/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1705/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -686,6 +687,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/sj1705/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sj1705/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sj1705/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sj1705/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1705/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -703,6 +705,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sj1705/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sj1705/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sj1705/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sj1705/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sj1705/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sj1705/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -867,6 +870,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sj1705/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sj1705/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sj1705/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Database
 |  |
