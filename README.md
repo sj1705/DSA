@@ -183,6 +183,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sj1705/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sj1705/DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/sj1705/DSA/tree/master/1895-largest-magic-square) |
+| [1901-find-a-peak-element-ii](https://github.com/sj1705/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/sj1705/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sj1705/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/sj1705/DSA/tree/master/2048-build-array-from-permutation) |
@@ -342,6 +343,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0967-minimum-falling-path-sum](https://github.com/sj1705/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sj1705/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/sj1705/DSA/tree/master/1895-largest-magic-square) |
+| [1901-find-a-peak-element-ii](https://github.com/sj1705/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sj1705/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sj1705/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sj1705/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -544,6 +546,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sj1705/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sj1705/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/sj1705/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [1901-find-a-peak-element-ii](https://github.com/sj1705/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/sj1705/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sj1705/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sj1705/DSA/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
