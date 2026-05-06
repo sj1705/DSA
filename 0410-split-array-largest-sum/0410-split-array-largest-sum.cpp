@@ -1,4 +1,4 @@
-#include <numeric>
+#include <bits/stdc++.h>
 class Solution {
 public:
     bool check(vector<int>& nums, int k,int mid)
