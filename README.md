@@ -7,6 +7,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sj1705/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sj1705/DSA/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sj1705/DSA/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/sj1705/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/sj1705/DSA/tree/master/0072-edit-distance) |
@@ -603,6 +604,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sj1705/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sj1705/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sj1705/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sj1705/DSA/tree/master/0085-maximal-rectangle) |
