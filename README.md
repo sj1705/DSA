@@ -207,6 +207,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sj1705/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sj1705/DSA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sj1705/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sj1705/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sj1705/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1705/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1705/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -781,6 +782,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sj1705/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sj1705/DSA/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sj1705/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sj1705/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sj1705/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sj1705/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sj1705/DSA/tree/master/3634-minimum-removals-to-balance-array) |
