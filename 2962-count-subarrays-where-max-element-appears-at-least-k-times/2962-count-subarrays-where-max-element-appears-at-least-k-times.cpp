@@ -13,9 +13,10 @@ public:
             {
                 countMax++;
             }
-            while(countMax>=k)
+            while(countMax==k)
             {
-                answer+=(n-right);
+                answer+=(n-right);  
+                // n- right = 5-3=2
                 if(nums[left]==maxEle)
                 {
                     countMax--;
