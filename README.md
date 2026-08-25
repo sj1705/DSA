@@ -640,6 +640,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0417-pacific-atlantic-water-flow](https://github.com/sj1705/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/sj1705/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/sj1705/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sj1705/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sj1705/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/sj1705/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -657,6 +658,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0102-binary-tree-level-order-traversal](https://github.com/sj1705/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/sj1705/DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sj1705/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/sj1705/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sj1705/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sj1705/DSA/tree/master/0733-flood-fill) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/sj1705/DSA/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -911,6 +913,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sj1705/DSA/tree/master/0547-number-of-provinces) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sj1705/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/sj1705/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/sj1705/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -923,5 +926,6 @@ This repository is a collection of algorithms and data structures that are commo
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sj1705/DSA/tree/master/0547-number-of-provinces) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sj1705/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
