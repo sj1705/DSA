@@ -121,6 +121,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0169-majority-element](https://github.com/sj1705/DSA/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sj1705/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sj1705/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sj1705/DSA/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/sj1705/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/sj1705/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sj1705/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -338,6 +339,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0074-search-a-2d-matrix](https://github.com/sj1705/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sj1705/DSA/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/sj1705/DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sj1705/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sj1705/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/sj1705/DSA/tree/master/0498-diagonal-traverse) |
@@ -635,6 +637,7 @@ This repository is a collection of algorithms and data structures that are commo
 | [0079-word-search](https://github.com/sj1705/DSA/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/sj1705/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sj1705/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/sj1705/DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sj1705/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/sj1705/DSA/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sj1705/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -656,6 +659,7 @@ This repository is a collection of algorithms and data structures that are commo
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sj1705/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/sj1705/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sj1705/DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sj1705/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/sj1705/DSA/tree/master/0547-number-of-provinces) |
@@ -926,6 +930,7 @@ This repository is a collection of algorithms and data structures that are commo
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sj1705/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sj1705/DSA/tree/master/0547-number-of-provinces) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sj1705/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
